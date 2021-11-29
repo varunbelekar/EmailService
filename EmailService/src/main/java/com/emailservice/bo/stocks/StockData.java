@@ -11,4 +11,6 @@ public class StockData{
 	private String currentMarketPrice;
 
 	private double averageCostPrice;
+
+	private double peRatio;
 }
