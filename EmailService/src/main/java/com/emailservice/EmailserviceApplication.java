@@ -6,10 +6,8 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 
 @SpringBootApplication
 @EnableScheduling
-public class EmailserviceApplication {
-
+public class EmailServiceApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(EmailserviceApplication.class, args);
+		SpringApplication.run(EmailServiceApplication.class, args);
 	}
-
 }
